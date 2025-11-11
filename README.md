@@ -2,6 +2,7 @@
 https://blog.google/technology/developers/google-kaggle-genai-intensive-recap-2025/
 ### *5-Day AI Agents Intensive Course with Google*
 
+##### Course page: https://www.kaggle.com/learn-guide/5-day-agents
 ---
 
 ## 📘 How the Course Works
