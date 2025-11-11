@@ -4,6 +4,7 @@ https://blog.google/technology/developers/google-kaggle-genai-intensive-recap-20
 
 ##### Course page: https://www.kaggle.com/learn-guide/5-day-agents
 ##### Youtube: https://www.youtube.com/playlist?list=PLqFaTIg4myu9r7uRoNfbJhHUbLp-1t1YE
+##### Discode: https://discord.com/channels/1101210829807956100/1305578408042041394
 ---
 
 ## 📘 How the Course Works
