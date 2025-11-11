@@ -2,6 +2,8 @@
 ---
 ### Complete Unit 2 - “Agent Tools & Interoperability with Model Context Protocol (MCP)”:
 
+#### Wite Paper: https://www.kaggle.com/whitepaper-agent-tools-and-interoperability-with-mcp
+---
 Listen to the summary podcast episode for this unit, created by NotebookLM.   
 (https://notifications.googleapis.com/email/redirect?t=AFG8qyVbV06MH0fxiyo5qplzyfk7YZm_8ugC1Qk68hT2ir64RIge2ExiKZInNj72lDSlWqo74JBa5CaZ3-TZljgGvD68tqJBeVTVev62RrM77mDD5am2UgeXg8nhCc_Qb8qEk49NP--5-9VRd_WsQfsJ-BP5Gl_8Rn_Eplch9_2vAf0T1_ttzgSwpQnIx87Jo7QWwiES_ppeVv8ZUdAYCB6ek92pJIEhf8wv4410Qj79OgXACDUfPaFuPp9mlznG1B0KMzJ9F-vAuGPOWnnIVMUWKELxz4DsZ2StsNqxeU8IdHPbky-kqQWsW_cqoECA&r=eJzLKCkpKLbS1y8vL9erzC8tKU1K1UvOz9UvTyxJzrAvs3UuMvFzNCuq8HD0BQBi8g9_&s=ALHZ2r7tymIv4sNQw1V6Tk5FnZiS)
 
