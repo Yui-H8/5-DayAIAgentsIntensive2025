@@ -1,5 +1,8 @@
 # Day 1
-Complete the Unit 1 – “Introduction to Agents”:
+---
+### Complete the Unit 1 – “Introduction to Agents”:    
+
+##### Kaggle: https://www.kaggle.com/code/kaggle5daysofai/day-1b-agent-architectures
 ---
 Listen to the summary podcast episode for this unit.
 https://notifications.googleapis.com/email/redirect?t=AFG8qyX6YZRPMHWHGPD6YTvdpI3Zsx_xHqqpHvkY_rkjSuU0v65N5MjoRZ5sF3pHJ3xpNLOAYvq1gohknADg65j3jsLkZhLCcybycqpNaLSNq2BbONlT3NEqqikpgUAfxQaSGsF5qF5a4IckFZgdt4MFLsFlMpV4BeQedOueluXzJbMO6izA9n77jja_gR-JHyGrj3jaSlFlaHr8Of7QApsCPQBijXqlRqcJr3qc_obt6lafRsMAotjInNBcFyvTQRyI4lNf6aZ6nKw9L-s-ZR6ClXPpTjcrYoXZjsLVnTD0_B7ntxOeUgZoz-1YvUlp&r=eJzLKCkpKLbS1y8vL9erzC8tKU1K1UvOz9UvTyxJzrAvs60KqShzrypIc9NNBwBpIxA-&s=ALHZ2r6Hdn8lvgOBKJf9vtro9INb
