@@ -6,8 +6,9 @@ https://blog.google/technology/developers/google-kaggle-genai-intensive-recap-20
 ##### Youtube: https://www.youtube.com/playlist?list=PLqFaTIg4myu9r7uRoNfbJhHUbLp-1t1YE
 ##### Discode: https://discord.com/channels/1101210829807956100/1305578408042041394
 ---
-インタラクティブな会話をしたいですか？**ホワイトペーパー**をNotebookLMに追加してみてください。
-https://notebooklm.google.com/
+インタラクティブな会話をしたいですか？**ホワイトペーパー**をNotebookLM (https://notebooklm.google.com/) に追加してみてください。    
+
+
 ---
 ## 📘 How the Course Works
 
