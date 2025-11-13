@@ -16,4 +16,5 @@ Today’s whitepaper focuses on external tools functions that allow an agent to 
 
 In today's codelabs, you will create custom tools for your agents by turning your own Python functions into actions your agent can perform. You'll also use MCP and implement long-running operations where an agent can pause tool calls while waiting for human approval, before resuming.
 
-2a (https://www.kaggle.com/code/yuihanamura/day-2a-agent-tools-5-day-ai-agents-intensive/)   
+2a (https://www.kaggle.com/code/yuihanamura/day-2a-agent-tools-5-day-ai-agents-intensive/)      
+2b (https://www.kaggle.com/code/yuihanamura/day-2b-agent-tools-be-5-day-ai-agents-intensive/edit)
