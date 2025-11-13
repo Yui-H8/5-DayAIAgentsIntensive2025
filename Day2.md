@@ -10,6 +10,9 @@ Listen to the summary podcast episode for this unit, created by NotebookLM.
 To complement the podcast, read the “Agent Tools & Interoperability with MCP” whitepaper.   
 (https://www.kaggle.com/whitepaper-agent-tools-and-interoperability-with-mcp)  
 
+https://drive.google.com/file/d/1ENMUDzybOzxnycQQxNh5sE9quRd0s3Sd/view?usp=sharing
+
+---
 ### 💡 What You’ll Learn
 
 Today’s whitepaper focuses on external tools functions that allow an agent to perform actions or retrieve real-time data beyond its training set and introduces best practices for designing effective tools. You'll learn about MCP, highlighting its architectural components, communication layer, risks and enterprise readiness gaps.  
