@@ -9,6 +9,8 @@ Listen to the summary podcast episode for this unit, created by NotebookLM.
 To complement the podcast, read the “Context Engineering: Sessions & Memory whitepaper".   
 (https://www.kaggle.com/whitepaper-context-engineering-sessions-and-memory)  
 
+https://drive.google.com/file/d/1JW6Q_wwvBjMz9xzOtTldFfPiF7BrdEeQ/view?usp=sharing
+---
 ### 💡 What You’ll Learn
    
 This whitepaper explores context engineering as the practice of dynamically assembling and managing information within an agent's context window to create stateful and personalized Al experiences. It defines Sessions as the container for a single, immediate conversation's history, and Memory as the long-term persistence mechanism.  
