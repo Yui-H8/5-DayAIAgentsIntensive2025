@@ -10,6 +10,7 @@ Listen to the summary podcast episode for this unit, created by NotebookLM.
 To complement the podcast, read the Agent Quality whitepaper.    
 (https://www.kaggle.com/whitepaper-agent-quality)
 
+https://drive.google.com/file/d/1EnTSGztSrjooYMLaDe8EnoATfsSoe3xv/view?usp=sharing
 
 ---
 
