@@ -1,4 +1,7 @@
 # Day 1
+
+https://www.kaggle.com/code/yuihanamura/day-1b-agent-architectures-5-day-ai-agents-inte/
+
 ---
 ### Complete the Unit 1 – “Introduction to Agents”:    
 
