@@ -1,6 +1,6 @@
 # Day4
 
-https://www.kaggle.com/code/yuihanamura/day-4a-agent-observability-5-day-ai-agents/edit
+https://www.kaggle.com/code/yuihanamura/day-4a-agent-observability-5-day-ai-agents/
 
 ---
 ### Complete Unit 4 - “Agent Quality”:
