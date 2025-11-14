@@ -1,4 +1,7 @@
 # Day2
+
+https://www.kaggle.com/code/yuihanamura/day-2b-agent-tools-be-5-day-ai-agents-intensive/
+
 ---
 ### Complete Unit 2 - “Agent Tools & Interoperability with Model Context Protocol (MCP)”:
 
