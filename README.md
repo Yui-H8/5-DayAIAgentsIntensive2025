@@ -65,6 +65,7 @@ before starting the **capstone project**.
 ---
 
 ### 🧩 [Optional] Capstone Project
+https://www.kaggle.com/competitions/agents-intensive-capstone-project/overview/
 
 * On the final day, you’ll have the chance to **apply everything you’ve learned** by building your own **AI agent**.
 * By participating in the **capstone project**, you will **earn a badge on Kaggle**.
